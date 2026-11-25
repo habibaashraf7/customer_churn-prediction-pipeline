@@ -1,0 +1,31 @@
+{
+  "model": "Logistic regression + engineered features",
+  "imbalance": "none",
+  "val_pr_auc": 0.691786133835078,
+  "val_roc_auc": 0.8638068666201659,
+  "features": [
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "SeniorCitizen",
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "n_services",
+    "auto_pay",
+    "charge_vs_avg",
+    "new_customer",
+    "log_tenure"
+  ]
+}

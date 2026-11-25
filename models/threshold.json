@@ -1,0 +1,10 @@
+{
+  "threshold": 0.32,
+  "assumptions": {
+    "contact_cost": 5.0,
+    "offer_discount": 0.2,
+    "offer_months": 3,
+    "save_rate": 0.3,
+    "value_months": 12
+  }
+}
